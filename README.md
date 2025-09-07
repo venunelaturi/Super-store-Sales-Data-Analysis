@@ -4,7 +4,7 @@ Super store data contains 10,194 records of retail sales transactions from a sup
 ## Project overview
 The Superstore dataset was analyzed using SQL to uncover key business insights across multiple dimensions including sales, products, regions, customers, and profitability. Sales analysis revealed trends over time, identifying peak seasons and top-performing categories, while product analysis highlighted which items drove revenue and which lagged in profitability. Regional analysis showed disparities in performance, with certain areas consistently outperforming others, and customer analysis segmented buyers by frequency and value, spotlighting loyal and high-spending individuals. Profit margin and discount analysis exposed how excessive discounting eroded profits, especially in low-margin categories, prompting a need for pricing strategy optimization. Time-series and cumulative sales analysis tracked growth trajectories and milestone achievements, offering a clear view of business momentum. Correlation analysis explored relationships between variables like discount and profit, while ranking and grouping techniques identified top products, customers, and regions. Percentage analysis quantified each segment’s contribution to overall performance, enabling sharper strategic focus. Together, these SQL-driven insights provided a holistic view of the Superstore’s operations, empowering data-backed decisions to enhance profitability, customer engagement, and regional expansion.
 ## Code file
-
+- <a href=https://github.com/venunelaturi/Super-store-Sales-Data-Analysis/blob/main/Super%20store%20data%20analysis.sql>code here</a>
 
 ## Key features
 ### 🧮 1. Sales Analysis
