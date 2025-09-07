@@ -6,32 +6,32 @@ The Superstore dataset was analyzed using SQL to uncover key business insights a
 [code file]{https://github.com/venunelaturi/Super-store-Sales-Data-Analysis/blob/main/Super%20store%20data%20analysis.sql}
 
 ## Key features
-🧮 1. Sales Analysis
+### 🧮 1. Sales Analysis
    •	Total Sales: ₹2,500,000
    •	Top Category by Sales: Technology – ₹1,200,000
    •	Top Segment: Consumer – ₹1,400,000
    •	Monthly Peak: November – ₹300,000
-📦 2. Product Analysis
+### 📦 2. Product Analysis
    •	Top Product: Canon ImageCLASS Printer – ₹150,000
    •	Lowest Selling Product: GBC Binding Machine – ₹2,500
    •	Category with Highest Profit: Office Supplies – ₹400,000
    •	Sub-Category with Most Orders: Binders – 1,200 orders
-🌍 3. Region Analysis
+### 🌍 3. Region Analysis
    •	Top Region by Sales: West – ₹800,000
    •	Lowest Region by Profit: South – ₹50,000
    •	Top State: California – ₹300,000
    •	State with Highest Discount Usage: Texas – Avg. 25%
-👥 4. Customer Analysis
+### 👥 4. Customer Analysis
    •	Total Unique Customers: 793
    •	Top Customer: Sean Miller – ₹45,000 in purchases
    •	Average Order Value: ₹3,150
    •	Repeat Customers: 38% of total
-💰 5. Profit Margin Analysis
+### 💰 5. Profit Margin Analysis
    •	Overall Profit Margin: 12.5%
    •	Highest Margin Product: HP LaserJet Printer – 35%
    •	Lowest Margin Category: Furniture – 4%
    •	Orders with Negative Profit: 8.2% of total
-🎯 6. Discount Analysis
+### 🎯 6. Discount Analysis
    •	Average Discount Applied: 15%
    •	Orders with >30% Discount: 5%
    •	Profit Loss Due to Discounts: ₹120,000
@@ -41,27 +41,27 @@ The Superstore dataset was analyzed using SQL to uncover key business insights a
    •	Best Quarter: Q4 – ₹750,000
    •	Lowest Month: February – ₹90,000
    •	Sales Trend: Upward with seasonal spikes
-📈 8. Cumulative Analysis
+### 📈 8. Cumulative Analysis
    •	Cumulative Sales (Year-End): ₹2,500,000
    •	Cumulative Profit: ₹312,500
    •	Cumulative Orders: 9,800
    •	Milestone: ₹1M reached in August
-🔗 9. Correlation Analysis
+### 🔗 9. Correlation Analysis
    •	Discount vs. Profit: Negative correlation (r = –0.42)
    •	Sales vs. Quantity: Strong positive correlation (r = 0.78)
    •	Customer Segment vs. Profit: Moderate correlation (r = 0.35)
-🏆 10. Ranking Analysis
-   •	Top 5 Products by Sales:
+### 🏆 10. Ranking Analysis
+#### Top 5 Products by Sales:
    1.	Canon Printer – ₹150,000
    2.	HP Laptop – ₹120,000
    3.	Logitech Mouse – ₹95,000
    4.	Office Chair – ₹90,000
    5.	Paper Ream – ₹85,000
-  •	Top 3 Customers:
+#### Top 3 Customers:
      1.	Sean Miller – ₹45,000
      2.	Claire Gute – ₹42,000
-    3.	Andrew Allen – ₹39,000
-🧮 11. Grouping Analysis
+     3.	Andrew Allen – ₹39,000
+### 🧮 11. Grouping Analysis
  •	Sales by Segment:
    o	Consumer – ₹1,400,000
    o	Corporate – ₹800,000
@@ -70,7 +70,7 @@ The Superstore dataset was analyzed using SQL to uncover key business insights a
    o	Technology – ₹180,000
    o	Office Supplies – ₹100,000
    o	Furniture – ₹32,500
-📊 12. Percentage Analysis
+### 📊 12. Percentage Analysis
    •	Technology Sales Contribution: 48%
    •	Furniture Profit Contribution: 10%
    •	Discounted Orders: 22% of total
