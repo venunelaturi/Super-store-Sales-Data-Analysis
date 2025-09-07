@@ -78,42 +78,42 @@ The Superstore dataset was analyzed using SQL to uncover key business insights a
 
 ### Technical skills
 #### 1. SQL (Structured Query Language)
-   ->  Writing complex queries using SELECT, JOIN, GROUP BY, ORDER BY, WHERE
-   ->  Using window functions like RANK(), ROW_NUMBER(), CUME_DIST()
-   ->  Performing aggregations: SUM(), AVG(), COUNT(), MAX(), MIN()
-   ->  Creating CTEs (Common Table Expressions) for modular queries
-   ->  Implementing subqueries and nested queries for layered logic
-   ->  Using date functions for time-series and cumulative analysis
+    ->  Writing complex queries using SELECT, JOIN, GROUP BY, ORDER BY, WHERE
+    ->  Using window functions like RANK(), ROW_NUMBER(), CUME_DIST()
+    ->  Performing aggregations: SUM(), AVG(), COUNT(), MAX(), MIN()
+    ->  Creating CTEs (Common Table Expressions) for modular queries
+    ->  Implementing subqueries and nested queries for layered logic
+    ->  Using date functions for time-series and cumulative analysis
 
 ## Future Development
-1.Strategic Business Recommendations
-   ->   Optimize pricing and discount strategies based on profit erosion patterns.
-   ->   Refine product portfolio by phasing out low-performing items and investing in high-margin products.
-   ->	Target high-value customers with loyalty programs and personalized offers.
-2. Dashboard & Reporting Automation
-   ->   Develop interactive dashboards using Power BI or Tableau for real-time monitoring.
-   ->   Automate monthly sales and profit reports for leadership review.
-   ->   Create alerts for anomalies (e.g., sudden drop in sales or spike in discounts).
-3. Predictive Modeling
-   ->   Use machine learning to forecast future sales, profit, and customer churn.
-   ->   Build models to predict optimal discount levels for maximizing profit.
-   ->   Apply clustering algorithms for customer segmentation and targeted marketing.
-4. Data Integration & Expansion
-   ->   Integrate external data sources like market trends, competitor pricing, or economic indicators.
-   ->   Expand analysis to include returns, shipping costs, and inventory data.
-   ->   Link CRM and marketing data to analyze campaign effectiveness.
-5. Operational Improvements
-   ->   Streamline inventory management based on product demand forecasts.
-   ->   Improve regional logistics by analyzing delivery times and cost efficiency.
-   ->   Enhance customer service by identifying pain points from order data.
-6. Advanced Analytics Initiatives
-   ->   Conduct A/B testing on pricing and promotions.
-   ->   Perform basket analysis to understand product bundling opportunities.
-   ->   Explore geo-spatial analytics to optimize store locations or delivery zones.
-7. Training & Skill Development
-   ->   Upskill teams in SQL, data visualization, and analytics tools.
-   ->   Establish a data-driven culture across departments.
-   ->   Create documentation and knowledge base for ongoing analysis.
+### 1.Strategic Business Recommendations
+    ->  Optimize pricing and discount strategies based on profit erosion patterns.
+    ->  Refine product portfolio by phasing out low-performing items and investing in high-margin products.
+    ->	Target high-value customers with loyalty programs and personalized offers.
+### 2. Dashboard & Reporting Automation
+    ->  Develop interactive dashboards using Power BI or Tableau for real-time monitoring.
+    ->  Automate monthly sales and profit reports for leadership review.
+    ->  Create alerts for anomalies (e.g., sudden drop in sales or spike in discounts).
+### 3. Predictive Modeling
+    ->  Use machine learning to forecast future sales, profit, and customer churn.
+    ->  Build models to predict optimal discount levels for maximizing profit.
+    ->  Apply clustering algorithms for customer segmentation and targeted marketing.
+### 4. Data Integration & Expansion
+    ->  Integrate external data sources like market trends, competitor pricing, or economic indicators.
+    ->  Expand analysis to include returns, shipping costs, and inventory data.
+    ->  Link CRM and marketing data to analyze campaign effectiveness.
+### 5. Operational Improvements
+    ->  Streamline inventory management based on product demand forecasts.
+    ->  Improve regional logistics by analyzing delivery times and cost efficiency.
+    ->  Enhance customer service by identifying pain points from order data.
+### 6. Advanced Analytics Initiatives
+    ->  Conduct A/B testing on pricing and promotions.
+    ->  Perform basket analysis to understand product bundling opportunities.
+    ->  Explore geo-spatial analytics to optimize store locations or delivery zones.
+### 7. Training & Skill Development
+    ->  Upskill teams in SQL, data visualization, and analytics tools.
+    ->  Establish a data-driven culture across departments.
+    ->  Create documentation and knowledge base for ongoing analysis.
 
 
 
