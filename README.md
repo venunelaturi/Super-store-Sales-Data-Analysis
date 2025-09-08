@@ -7,7 +7,7 @@ The Superstore dataset was analyzed using SQL to uncover key business insights a
 - <a href=https://github.com/venunelaturi/Super-store-Sales-Data-Analysis/blob/main/Super%20store%20data%20analysis.sql>code here</a>
 
 ## Dashboard
-
+- <a href=https://github.com/venunelaturi/Super-store-Sales-Data-Analysis/blob/main/Screenshot_8-9-2025_154218_.jpeg>Click here</a>
 
 ### Technical skills
 #### 1. SQL (Structured Query Language)
