@@ -6,6 +6,7 @@ The Superstore dataset was analyzed using SQL to uncover key business insights a
 ## Code file
 - <a href=https://github.com/venunelaturi/Super-store-Sales-Data-Analysis/blob/main/Super%20store%20data%20analysis.sql>code here</a>
 
+## Dashboard
 
 
 ### Technical skills
